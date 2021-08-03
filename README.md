@@ -9,10 +9,15 @@ A text file called employees.txt that will be read when the project launches. Yo
 able to read this information on the first run of your program and each time
 it is run following
 
-Other functionalities that this project has
+Other functionalities that this project has:
 ● Implement Java streams
+
 ● Use File I/O
+
 ● Use of inheritance 
+
 ● Implement the use of a custom exception
+
 ● Store each row of employee information from the file into one line
+
 ● Use of nested enum
