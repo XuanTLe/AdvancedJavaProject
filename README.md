@@ -10,6 +10,7 @@ able to read this information on the first run of your program and each time
 it is run following
 
 Other functionalities that this project has:
+
 ● Implement Java streams
 
 ● Use File I/O
